@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript ES6, HTML5, CSS3 and React
+- 🌱 I’m currently learning JavaScript ES6, TypeScript, HTML5, CSS3 and React
 - 📫 How to reach me: https://www.linkedin.com/in/wanghohan/
 <div align="center">
   <h4>👅 my languages</h4>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='JavaScript' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='TypeScript' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='Java' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
 </div>
