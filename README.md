@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript ES6, TypeScript, HTML5, CSS3 and React
+- 🌱 I’m currently learning JavaScript, TypeScript, HTML5, CSS and React
 - 📫 How to reach me: https://www.linkedin.com/in/wanghohan/
 <div align="center">
   <h4>👅 my languages</h4>
@@ -28,8 +28,10 @@ Here are some ideas to get you started:
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='HTML5' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='CSS3' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='React' width='50'/>
-  <img src = 'https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt='Spring' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' alt='Figma' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' alt='Git' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg' alt='Jira' width='50'/>
+  <img src = 'https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg' alt='Spring' width='50'/>
 </div>
 <div align="center">
 	<img width="450px" src="https://github-readme-stats.vercel.app/api?username=WangHoHan&hide_border=true"&show_icons=true&count_private=true />
