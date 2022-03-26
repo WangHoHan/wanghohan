@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' width='50'/>
 </div>
 <div align="center">
-<h4>💡 my technologies</h4>
+<h4>💡 my technologies and tools</h4>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='HTML5' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='CSS3' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='React' width='50'/>
