@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🌱 I’m currently learning JavaScript, TypeScript, HTML5, CSS and React
 - 📫 How to reach me: https://www.linkedin.com/in/wanghohan/
 <div align="center">
@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 	<img alt="GitHub Follow" src="https://img.shields.io/github/followers/WangHoHan?label=followers&logo=GitHub&style=flat" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/WangHoHan?style=flat" />
 </div>
+-->
